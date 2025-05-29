@@ -10,3 +10,4 @@ yolo train model="yolo11n.pt" data="data.yaml" epochs=50 imgsz=640 device=cpu
 # get the visualized graphs
 python visualize_yolo_labels.py
 
+#and here also include the hardware progress file if u r interested
