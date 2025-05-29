@@ -1,7 +1,7 @@
-#this command is to stop last training
+# this command is to stop last training
 set KMP_DUPLICATE_LIB_OK=TRUE
 
-#go back the train and val dataset where u put 
+# go to the train and val dataset path location
 cd /d "path u save the training data"
 
 # start train
